@@ -1,58 +1,99 @@
-# Zokou-2.0
+### STINGER-V2 BUG BOT 
+   
+<p align="center">
+<img src="https://i.ibb.co/WVjs0r4/IMG-20240906-WA0025.jpg"/> 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+STINGER+V2+BUG+BOT-BOT;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+ES+TEAMS;REALESE+DATE+10%2F9%2F2024." alt="Typing SVG" /></a>
+</p>
+
+### If you want to deploy on panel, download bot zip file and upload it to your server 
+
+### 1. <a href="https://github.com/paskito002/STINGER-V2/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork STINGER-V2" width="70"></a>
+
+ ### 2. Deploy on Panel
+
+ If you don't have an account in PANEL, create one and deploy.
+    <br>
+    <a href='https://bot-hosting.net/?aff=1280448772995940427' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=bot-hosting.net&logoColor=white'/></a>
+    
+## WATCH VIDEO ON HOW TO DEPLOY ON PANEL.
+* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/lKYlMv5hyUk)
+
+### 3.
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [STINGER-V2 BUG BOT](https://github.com/paskito002/STINGER-V2) ON ANY TERMINAL
+sudo apt -y update && sudo apt -y upgrade
+```
+sudo apt -y install git ffmpeg curl
+```
+```
+curl -fsSL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh
+```
+```
+sudo -E bash nodesource_setup.sh
+```
+```
+sudo apt-get install -y nodejs
+```
+```
+sudo npm install -g yarn
+```
+```
+sudo yarn global add pm2
+```
+```
+git clone https://github.com/type-your-username-here/STINGER-V2
+```
+```
+cd STINGER-V2
+yarn install 
+npm start
+ 
+# Termux Deployment
+
+atp update
+   
+
+apt upgrade
+
+pkg update && pkg upgrade
+
+pkg install bash
+
+ pkg install git
+
+ pkg install nodejs
+
+pkg install ffmpeg
+
+pkg install wget
+
+pkg install imagemagick
+
+ pkg install yarn
+
+termux-setup-storage
 
 
+git clone https://github.com/paskito002/STINGER-V2
+```
+```
+ cd STINGER-V2
+```
+```
+yarn install
+ 
+    
+npm start
+```
 
-Zokou is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether managing files, interacting with stickers, or facilitating group management, Zokou is here to assist you.
+## IF YOU NEED THE STINGER V2 ANTI-BUG SCRIPT, ```CONTACT ME ON WHATSAPP```
 
-## Key Features
-
-- **File Download:** Zokou can download audio and video files from links you send, making it easy to share them with your contacts.
-
-- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to Zokou.
-
-- **Group Management:** Zokou offers group management features, such as adding or removing members, configuring rules, and other settings.
-
-- **Text to Img:** The best logos have been selected for your convenience.
-
-## Fun Features
-
-- **Jokes and Riddles:** Zokou comes with a collection of jokes and riddles to liven up your conversations.
-
-- **Inspiring Quotes:** Receive inspiring quotes to motivate you daily.
-
-## Get Zokou
-
-1. Click on **[Fork](https://github.com/Luffy2ndAccount/Zokou-english-v/fork)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
-
-2. Obtain a bot session: 
-
-   [Session-1](https://zkscan.onrender.com)  <br>
-   [Session-2](https://zokouscan.onrender.com) <br>
-
-
-3. Deploy
-   - **Heroku Deployment:**
-     1. If you don't have a **Heroku** account, click [**here**](https://id.heroku.com/login) to create one.
-     2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Luffy2ndAccount/Zokou-english-v) to deploy the bot on **Heroku**.
-
-## Contributions
-
-Contributions to Zokou are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
-
-   thinks to these persons ;
-
-   **Fatao** who added commands (Fancy, gpt, dalle, apk); <br>
-
-   **CrazyPrice** who hosted a second website for the session_id;
-
-## License
-
-The WhatsApp Bot Zokou is released under the [MIT License](https://opensource.org/licenses/MIT).
-
-Enjoy the diverse features of the WhatsApp Bot Zokou to enhance your conversations and make your WhatsApp experience more interesting!
-
-## Developers:
-
-- [**Djalega++**](https://github.com/djalega8000/Zokou-MD/)
-- [**᚛M๏𝓷keℽ D Lบffy᚜**](https://github.com/Faouz995)
-
+## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
+ <br> 
+<p align="center">
+<a href="https://wa.me/2349037524605"><img src="https://img.shields.io/badge/Contact ES-TEAMS TECH-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://www.youtube.com/@esteams"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@esteams" /><br>
+<p align="center">
+<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
+ 
